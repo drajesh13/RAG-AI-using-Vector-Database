@@ -1,0 +1,13 @@
+# Ignore environment variables
+.env
+
+# Ignore virtual environment fold
+ven/
+
+# Ignore PDF files or the PDF folder
+documents/
+*.pdf
+
+# Ignore __pycache__ folders and compiled files
+__pycache__/
+*.pyc

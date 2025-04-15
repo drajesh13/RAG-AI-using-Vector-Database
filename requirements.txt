@@ -1,0 +1,6 @@
+langchain
+pypdf
+chromadb
+langchain-google-genai
+streamlit
+python-dotenv
